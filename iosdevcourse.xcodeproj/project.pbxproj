@@ -14,6 +14,7 @@
 		52B986D72C85C4760097935F /* iosdevcourseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B986D62C85C4760097935F /* iosdevcourseTests.swift */; };
 		52B986E12C85C4760097935F /* iosdevcourseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B986E02C85C4760097935F /* iosdevcourseUITests.swift */; };
 		52B986E32C85C4760097935F /* iosdevcourseUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B986E22C85C4760097935F /* iosdevcourseUITestsLaunchTests.swift */; };
+		52B986F02C85C93F0097935F /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B986EF2C85C93F0097935F /* ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		52B986DC2C85C4760097935F /* iosdevcourseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosdevcourseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B986E02C85C4760097935F /* iosdevcourseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosdevcourseUITests.swift; sourceTree = "<group>"; };
 		52B986E22C85C4760097935F /* iosdevcourseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosdevcourseUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		52B986EF2C85C93F0097935F /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				52B986C52C85C4740097935F /* iosdevcourseApp.swift */,
 				52B986C72C85C4740097935F /* ContentView.swift */,
+				52B986EF2C85C93F0097935F /* ImageView.swift */,
 				52B986C92C85C4760097935F /* Assets.xcassets */,
 				52B986CB2C85C4760097935F /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52B986F02C85C93F0097935F /* ImageView.swift in Sources */,
 				52B986C82C85C4740097935F /* ContentView.swift in Sources */,
 				52B986C62C85C4740097935F /* iosdevcourseApp.swift in Sources */,
 			);
